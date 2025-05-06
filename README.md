@@ -30,7 +30,7 @@
  - **Shell Scripting (bash and zsh)**  
  ---
  
- **Name:** ASHISH CHOUDHARY 
+ **Name:** ASHISH CHOUDHARY (23070521208)
  **College Name:** Symbiosis Institute of Technology, Nagpur   
  **Branch:** B.Tech. Computer Science and Engineering   
  **Academic Year:** 2024–2025   
